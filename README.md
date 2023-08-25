@@ -1,0 +1,1 @@
+# A project for detecting YuGiOh cards using YoloV8
